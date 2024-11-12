@@ -168,5 +168,8 @@
   },
   "enable": {
     "message": "$1 사용"
+  },
+  "numberOfReplays": {
+    "message": "재생 횟수"
   }
 }

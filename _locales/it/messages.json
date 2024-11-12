@@ -154,5 +154,8 @@
   },
   "hideShortsOverlayTitle": {
     "message": "Disabilita sovraimpressione degli short (titolo, canale, ecc)"
+  },
+  "numberOfReplays": {
+    "message": "Numero di riproduzioni"
   }
 }

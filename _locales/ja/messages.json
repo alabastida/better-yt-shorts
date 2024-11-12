@@ -163,5 +163,8 @@
   },
   "toggleFullScreen": {
     "message": "全画面切り替え"
+  },
+  "numberOfReplays": {
+    "message": "再生回数"
   }
 }

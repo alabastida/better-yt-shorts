@@ -55,6 +55,7 @@ export const DEFAULT_OPTIONS: PolyDictionary = {
   showVolumeHorizontally: false,
   defaultPlaybackRate: 1,
   fullScreenDoubleClick: true,
+  numberOfReplays: 1,
 };
 
 export const OPTIONS_ORDER: string[] = [
@@ -66,6 +67,7 @@ export const OPTIONS_ORDER: string[] = [
   "skipThreshold",
   "hideShortsOverlay",
   "showVolumeHorizontally",
+  "numberOfReplays",
 ];
 
 export const OPTION_DICTIONARY: OptionsDictionary = {
@@ -106,6 +108,11 @@ export const OPTION_DICTIONARY: OptionsDictionary = {
   fullScreenDoubleClick: {
     desc: local("fullScreenDoubleClick"),
     type: "checkbox",
+  },
+  numberOfReplays: {
+    desc: local("numberOfReplays"),
+    type: "number",
+    min: 1,
   },
 };
 
@@ -150,6 +157,7 @@ export const DEFAULT_STATE: StateObject = {
   playbackRate: 1,
   lastTime: -1, // ? this is for checking if items were injected
   openedCommentsId: -1,
+  currentPlay: 1,
 
   actualVolume: null,
   skippedId: null,
@@ -172,6 +180,7 @@ export const DEFAULT_FEATURES: BooleanDictionary = {
   keybinds: true,
   viewCounter: true,
   uploadDate: true,
+  numberOfReplays: true,
 };
 
 export const FEATURES_ORDER: string[] = [
@@ -183,6 +192,7 @@ export const FEATURES_ORDER: string[] = [
   "keybinds",
   "viewCounter",
   "uploadDate",
+  "numberOfReplays",
 ];
 
 // todo  - add formats from other langs (note: dont include duplicate keys)#

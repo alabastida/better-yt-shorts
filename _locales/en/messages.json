@@ -177,5 +177,8 @@
   },
   "fullScreenDoubleClick": {
     "message": "Double click to toggle full screen"
+  },
+  "numberOfReplays": {
+    "message": "Number of replays"
   }
 }

@@ -154,5 +154,8 @@
   },
   "enable": {
     "message": "Activer $1"
+  },
+  "numberOfReplays": {
+    "message": "Nombre de répétitions"
   }
 }

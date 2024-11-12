@@ -43,7 +43,7 @@ export const state = new Proxy(DEFAULT_STATE, {
           break;
       }
     }
-
+    
     return true;
   },
 });

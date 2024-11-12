@@ -172,5 +172,8 @@
   },
   "fullScreenDoubleClick": {
     "message": "دوبار کلیک برای تغییر حالت تمام صفحه"
+  },
+  "numberOfReplays": {
+    "message": "تعداد بازپخش"
   }
 }

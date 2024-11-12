@@ -171,5 +171,8 @@
   },
   "enable": {
     "message": "Habilitar $1"
+  },
+  "numberOfReplays": {
+    "message": "Número de repeticiones"
   }
 }

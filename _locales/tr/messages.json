@@ -169,5 +169,8 @@
   },
   "fullScreenDoubleClick": {
     "message": "Tam ekrana geçmek için çift tıkla"
+  },
+  "numberOfReplays": {
+    "message": "Yeniden Oynatma Sayısı"
   }
 }

@@ -157,5 +157,8 @@
     },
     "uploadDate": {
         "message": "تاريخ رفع الشورت"
+    },
+    "numberOfReplays": {
+        "message": "عدد المشاهدات"
     }
 }

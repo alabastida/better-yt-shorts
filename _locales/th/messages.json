@@ -157,5 +157,8 @@
   },
   "enable": {
     "message": "เปิดใช้งาน $1"
+  },
+  "numberOfReplays": {
+    "message": "จำนวนการเล่นซ้ำ"
   }
 }

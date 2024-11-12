@@ -174,5 +174,8 @@
   },
   "fullScreenDoubleClick": {
     "message": "Clique duplo para tela cheia"
+  },
+  "numberOfReplays": {
+    "message": "Número de Repetições"
   }
 }

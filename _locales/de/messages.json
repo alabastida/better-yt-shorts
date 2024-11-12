@@ -163,5 +163,8 @@
   },
   "enable": {
     "message": "Aktivieren $1"
+  },
+  "numberOfReplays": {
+    "message": "Anzahl der Wiederholungen"
   }
 }

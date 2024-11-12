@@ -153,5 +153,8 @@
   },
   "enable": {
     "message": "הפעל $1"
+  },
+  "numberOfReplays": {
+    "message": "מספר הפעלות"
   }
 }
